@@ -1,0 +1,10 @@
+# ninja log v5
+2	616	1717244965141239935	CMakeFiles/test_tlsd.dir/tests/test_tlsd.cpp.o	a2a65814a4dd99ad
+38	60	1717250769979107000	libtlsd.a	faad09147af6e3f3
+9	1485	1717245800060435573	CMakeFiles/pytlsd.dir/src/PYAPI.cpp.o	9bbcebec7a9120f6
+1	345	1717244964871602368	CMakeFiles/tlsd.dir/src/lsd.cpp.o	5c2bc763a653a63a
+60	2788	1717250772703321326	test_tlsd	e1f166e58c60da39
+60	2792	1717250772710799138	/Users/quentinlaborde/GitProjects/Vision_Symbolization/Vision/rim_src_clean/pytlsd/build/lib.macosx-11.0-arm64-cpython-310/pytlsd.cpython-310-darwin.so	d3cdfc12ef050279
+4	20	1717252143666259000	libtlsd.a	784489b203c83217
+20	59	1717252143702726054	test_tlsd	e1f166e58c60da39
+20	62	1717252143707766888	/Users/quentinlaborde/GitProjects/Vision_Symbolization/Vision/rim_src_clean/pytlsd/build/lib.macosx-11.0-arm64-cpython-310/pytlsd.cpython-310-darwin.so	d3cdfc12ef050279

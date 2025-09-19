@@ -1,0 +1,14 @@
+build
+func-timeout
+holoviews
+matplotlib
+numpy
+setuptools
+omegaconf==2.2.*
+opencv-python==4.7.0.*
+scikit-learn
+scipy
+seaborn
+typing
+torch>=1.12
+torchvision>=0.13

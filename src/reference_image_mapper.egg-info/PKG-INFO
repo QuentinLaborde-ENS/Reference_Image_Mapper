@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: reference_image_mapper
+Version: 0.1
+Summary: Reference Image Mapper
+Author: Dr UDM
+Author-email: dr.udm.darcy@gmail.com
+Maintainer: Dr UDM
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: build
+Requires-Dist: func-timeout
+Requires-Dist: holoviews
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: omegaconf==2.2.*
+Requires-Dist: opencv-python==4.7.0.*
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: seaborn
+Requires-Dist: typing
+Requires-Dist: torch>=1.12
+Requires-Dist: torchvision>=0.13
+Dynamic: license-file
+
+# VisionToolkit
+
+## Install
+
+To install 
+
+run python -m pip install .
